@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengxiang Quan"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Less is more. "
 repository               : "CristinaAsuna/CristinaAsuna.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengxiang Quan"
   avatar           : "images/handsome_bysea.png"
-  bio              : "China University of Petroleum"
+  bio              : #"China University of Petroleum"
   location         : "Qingdao, China"
-  employer         :
+  employer         : "China University of Petroleum"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2202010825@s.upc.edu.cn"
