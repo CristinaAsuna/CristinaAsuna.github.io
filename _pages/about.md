@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 #  About me
-Hi,This is Mengxiang Quan(全梦翔).
-I am a third year undergraduate student from China University of Petroleum (East China) under the supervision of Prof. Yunquan Song, who is an expert in the field of High-Dimensional Statistic.I 
+Hi, I am Mengxiang Quan (全梦翔). I am a third-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. Yunquan Song, a renowned expert in High-Dimensional Statistics.My current research interests lie in the areas of LLMs, Multimodality, Computer Vision, and Embodied AI. I am passionate about exploring the frontiers of these fields and contributing to the advancement of artificial intelligence.
 <!---
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 --->
