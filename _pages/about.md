@@ -56,7 +56,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12* Second Prize, CUMCM (Shandong)
 
 # 📖 Educations
-<
 - *2022.09 - 2026.06 (now)*, B.Eng. in Data Science
 China University of Petroleum (East China), School of Science
 
