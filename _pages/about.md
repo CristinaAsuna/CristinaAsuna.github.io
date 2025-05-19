@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Scientific Research Experience
 - *2024.9-2025.3*:Differentially Private Stochastic Frontier Analysis via Frank-Wolfe Optimization
-- *2025.3-*:
+- *2025.3-*:Unified Adaptation Module for Long-Tailed Recognition
 
 <!--
 # 📝 Publications 
