@@ -24,11 +24,13 @@ My research interest includes neural machine translation and computer vision. I 
 --->
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 My 
+- *2025.05*: &nbsp;🎉🎉 Awarded the Meritorious Prize in the MCM,Top 5%.
+- *2025.05*: &nbsp;🎉🎉  Awarded the Third Prize in Group A of the LanQiao Cup (蓝桥杯), Shandong Province
 - *2025.03*: &nbsp;🎉🎉 My first CCF-C paper submitted.
+- *2024.012*: &nbsp;🎉🎉  Awarded the Second Prize in the CUMCM , Shandong Province.
 
 # 📝 Scientific Research Experience
-- *2024.9-2025.3*:
+- *2024.9-2025.3*:Differentially Private Stochastic Frontier Analysis via Frank-Wolfe Optimization
 - *2025.3-*:
 
 <!--
@@ -49,12 +51,17 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05* Meritorious Prize, MCM (Top 5%)
+- *2025.04* Third Prize, LanQiao Cup (Group A, Shandong)
+- *2024.12* Second Prize, CUMCM (Shandong)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<
+- *2022.09 - 2026.06 (now)*, B.Eng. in Data Science
+China University of Petroleum (East China), School of Science
+
+
+
 <!---
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
