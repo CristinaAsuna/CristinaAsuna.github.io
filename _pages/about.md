@@ -23,6 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 --->
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 My first paper was accepted.
 - *2025.05*: &nbsp;🎉🎉 Awarded the Meritorious Prize in the MCM,Top 5%.
 - *2025.05*: &nbsp;🎉🎉  Awarded the Third Prize in Group A of the LanQiao Cup (蓝桥杯), Shandong Province
 - *2025.03*: &nbsp;🎉🎉 My first CCF-C paper submitted.
