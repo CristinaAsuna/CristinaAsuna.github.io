@@ -1,29 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Archive</title>
-</head>
-<body>
-    <h1>Blog Archive</h1>
-    <div class="archive">
-        <!-- Begin loop to display posts by year -->
-        <div class="year">
-            <h2>2026</h2>
-            <ul>
-                <!-- Placeholder for blog posts -->
-                <li><a href="/posts/post1.html">Post Title 1</a></li>
-                <li><a href="/posts/post2.html">Post Title 2</a></li>
-            </ul>
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
         </div>
-        <div class="year">
-            <h2>2025</h2>
-            <ul>
-                <li><a href="/posts/post3.html">Post Title 3</a></li>
-            </ul>
-        </div>
-        <!-- Add other years and posts as needed -->
+      </article>
     </div>
-</body>
+
+    {% include scripts.html %}
+
+  </body>
 </html>
