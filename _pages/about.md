@@ -17,7 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 #  About me
-Hi, I am Mengxiang Quan (全梦翔). I am a third-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. Yunquan Song, a renowned expert in High-Dimensional Statistics.My current research interests lie in the areas of LLMs, Multimodality, Computer Vision, and Embodied AI. I am passionate about exploring the frontiers of these fields and contributing to the advancement of artificial intelligence.
+
+## About Me
+
+Hi, I am Mengxiang Quan (全梦翔). I am a fourth-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. Yunquan Song (https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), a renowned expert in High-Dimensional Statistics.
+
+I will join ShanghaiTech University after September 2026 to pursue my M.S. degree.
+
+My current research interests lie in the areas of unified models, generative models, and foundation models. I am passionate about exploring the frontiers of these fields and contributing to the advancement of artificial intelligence.
+
+
 <!---
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 --->
@@ -68,14 +77,14 @@ ShanghaiTech University
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 --->
 # 💻 Internships
-- *2024.06 - 2024.12*, [BUAA](https://www.buaa.edu.cn/), China.
- <img src="/images/buaa.png" alt="BUAA" style="height:20px; "> 
+- *2024.06 - 2024.12*, [BUAA](https://www.buaa.edu.cn/), China.<br>
+ <img src="/images/buaa.png" alt="BUAA" style="height:20px; "> <br>
   *Visiting Student*
-- *2025.03 - 2025.07*,  [Tsinghua University](https://www.tsinghua.edu.cn), China.
-  <img src="/images/thu.png" alt="Tsinghua" style="height:20px; ">
+- *2025.03 - 2025.07*,  [Tsinghua University](https://www.tsinghua.edu.cn), China.<br>
+  <img src="/images/thu.png" alt="Tsinghua" style="height:20px; "><br>
   *RA* 
-- *2026.03 - 2026.09*,  [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.
-  <img src="/images/shanghaitech.png" alt="ShanghaiTech" style="height:20px; ">
+- *2026.03 - 2026.09*,  [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.<br>
+  <img src="/images/shanghaitech.png" alt="ShanghaiTech" style="height:20px; "><br>
   *Visiting Student*
   
 
