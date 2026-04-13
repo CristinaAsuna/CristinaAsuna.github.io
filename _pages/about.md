@@ -68,7 +68,7 @@ ShanghaiTech University
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 --->
 # 💻 Internships
-- *2024.06 - 2024.12*, <i class="fas fa-university"></i> [BUAA](https://www.buaa.edu.cn/), China.
-- *2025.03 - 2025.07*, <i class="fas fa-university"></i> [Tsinghua University](https://www.tsinghua.edu.cn), China.
-- *2026.03 - 2026.09*, <i class="fas fa-university"></i> [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.
+- *2024.06 - 2024.12*, <img src="/images/buaa.png" alt="BUAA" style="height:20px; margin-right:5px;"> [BUAA](https://www.buaa.edu.cn/), China.
+- *2025.03 - 2025.07*, <img src="/images/thu.png" alt="Tsinghua" style="height:20px; margin-right:5px;"> [Tsinghua University](https://www.tsinghua.edu.cn), China.
+- *2026.03 - 2026.09*, <img src="/images/shanghaitech.png" alt="ShanghaiTech" style="height:20px; margin-right:5px;"> [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.
 
