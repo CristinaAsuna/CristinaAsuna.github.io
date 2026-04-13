@@ -18,8 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 #  About me
 
-## About Me
-
 Hi, I am Mengxiang Quan (全梦翔). I am a fourth-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. [Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), a renowned expert in High-Dimensional Statistics.
 
 I will join [ShanghaiTech University](https://idea.bme.shanghaitech.edu.cn/14129/list.htm) after September 2026 to pursue my M.S. degree.
