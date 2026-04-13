@@ -128,7 +128,13 @@ defaults:
     values:
       layout: default
       author_profile: true
-
+# _posts (添加这个部分)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
 
 # Sass/SCSS
 sass:
