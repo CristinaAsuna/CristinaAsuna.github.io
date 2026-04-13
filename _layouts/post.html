@@ -1,25 +1,19 @@
-{% extends "default.html" %}
+---
+layout: default
+---
 
-{% block content %}
 <article>
-    <h1>{{ page.title }}</h1>
-    <p class="post-meta">
-        <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-        {% if page.categories %}
-            <span class="categories">Categories: {{ page.categories | join: ', ' }}</span>
-        {% endif %}
-        {% if page.tags %}
-            <span class="tags">Tags: {{ page.tags | join: ', ' }}</span>
-        {% endif %}
-    </p>
-
-    {% if page.toc %}
-        <div class="table-of-contents">
-            <h2>Table of Contents</h2>
-            {{ page.toc }}
-        </div>
+  <h1>{{ page.title }}</h1>
+  
+  <p class="post-meta">
+    <time>{{ page.date | date: "%B %d, %Y" }}</time>
+    {% if page.categories %}
+      <span>Categories: {{ page.categories | join: ', ' }}</span>
     {% endif %}
-
-    {{ content }}
+    {% if page.tags %}
+      <span>Tags: {{ page.tags | join: ', ' }}</span>
+    {% endif %}
+  </p>
+  
+  {{ content }}
 </article>
-{% endblock %}
