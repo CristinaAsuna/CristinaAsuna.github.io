@@ -59,14 +59,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 # 🎖 Honors and Awards
 - *2025.05* Meritorious Prize, MCM (Top 5%)
-- 
+  
   
 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, B.Eng. in Data Science
 China University of Petroleum (East China), School of Science
-- *2026.09 -2029.06(expected) *, M.S. in BME
+
+- *2026.09 -2029.06(expected)*, M.S. in BME
 ShanghaiTech University
 
 
