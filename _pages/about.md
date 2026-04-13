@@ -20,9 +20,9 @@ redirect_from:
 
 ## About Me
 
-Hi, I am Mengxiang Quan (全梦翔). I am a fourth-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. Yunquan Song (https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), a renowned expert in High-Dimensional Statistics.
+Hi, I am Mengxiang Quan (全梦翔). I am a fourth-year undergraduate student at China University of Petroleum (East China), where I am fortunate to conduct research under the supervision of Prof. [Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), a renowned expert in High-Dimensional Statistics.
 
-I will join ShanghaiTech University after September 2026 to pursue my M.S. degree.
+I will join [ShanghaiTech University](https://idea.bme.shanghaitech.edu.cn/14129/list.htm) after September 2026 to pursue my M.S. degree.
 
 My current research interests lie in the areas of unified models, generative models, and foundation models. I am passionate about exploring the frontiers of these fields and contributing to the advancement of artificial intelligence.
 
@@ -77,14 +77,8 @@ ShanghaiTech University
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 --->
 # 💻 Internships
-- *2024.06 - 2024.12*, [BUAA](https://www.buaa.edu.cn/), China.<br>
- <img src="/images/buaa.png" alt="BUAA" style="height:20px; "> <br>
-  *Visiting Student*
-- *2025.03 - 2025.07*,  [Tsinghua University](https://www.tsinghua.edu.cn), China.<br>
-  <img src="/images/thu.png" alt="Tsinghua" style="height:20px; "><br>
-  *RA* 
-- *2026.03 - 2026.09*,  [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.<br>
-  <img src="/images/shanghaitech.png" alt="ShanghaiTech" style="height:20px; "><br>
-  *Visiting Student*
+- *2024.06 - 2024.12*, <img src="/images/buaa.png" alt="BUAA" style="height:20px; ">[BUAA](https://www.buaa.edu.cn/), China. -*Visiting Student*
+- *2025.03 - 2025.07*, <img src="/images/thu.png" alt="Tsinghua" style="height:20px; "> [Tsinghua University](https://www.tsinghua.edu.cn), China. -*RA* 
+- *2026.03 - 2026.09*, <img src="/images/shanghaitech.png" alt="ShanghaiTech" style="height:20px; "> [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China. -*Visiting Student*
   
 
