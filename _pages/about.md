@@ -25,13 +25,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 My first paper was accepted.
 - *2025.05*: &nbsp;🎉🎉 Awarded the Meritorious Prize in the MCM,Top 5%.
-- *2025.05*: &nbsp;🎉🎉  Awarded the Third Prize in Group A of the LanQiao Cup (蓝桥杯), Shandong Province
-- *2025.03*: &nbsp;🎉🎉 My first CCF-C paper submitted.
-- *2024.012*: &nbsp;🎉🎉  Awarded the Second Prize in the CUMCM , Shandong Province.
 
 # 📝 Scientific Research Experience
 - *2024.9-2025.3*:Differentially Private Stochastic Frontier Analysis via Frank-Wolfe Optimization
-- *2025.3-*:Unified Adaptation Module for Long-Tailed Recognition
+- *2025.3-2025.7*:unified model  for Long-Tailed Recognition
+- *2026.3-*:Generative models
 
 <!--
 # 📝 Publications 
@@ -52,12 +50,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 # 🎖 Honors and Awards
 - *2025.05* Meritorious Prize, MCM (Top 5%)
-- *2025.04* Third Prize, LanQiao Cup (Group A, Shandong)
-- *2024.12* Second Prize, CUMCM (Shandong)
+- 
+  
+
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, B.Eng. in Data Science
 China University of Petroleum (East China), School of Science
+- *2026.09 -2029.06 *, M.S in BME
+ShanghaiTech University
 
 
 
@@ -65,7 +66,9 @@ China University of Petroleum (East China), School of Science
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 --->
+# 💻 Internships
+- *2024.06 - 2024.12*, <i class="fas fa-university"></i> [BUAA](https://www.buaa.edu.cn/), China.
+- *2025.03 - 2025.07*, <i class="fas fa-university"></i> [Tsinghua University](https://www.tsinghua.edu.cn), China.
+- *2026.03 - 2026.09*, <i class="fas fa-university"></i> [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China.
+
