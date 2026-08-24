@@ -11,7 +11,7 @@ author_profile: true
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year }}-ref">{{ year }}</h2>
+## {{ year }}
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
